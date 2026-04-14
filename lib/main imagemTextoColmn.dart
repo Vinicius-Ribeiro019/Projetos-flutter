@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
           title: const Text('Texto e Imagem'),
         ),
         body:Center(
-          child: Column(
+          child: Column( 
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               const Text("Bem vindo", style: TextStyle(fontSize: 24)),
